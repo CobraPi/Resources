@@ -2,6 +2,7 @@
 * [An SVG Path Builder](http://jxnblk.com/paths/)
 * [Multiple API documentations in a fast, organized, and searchable interface](http://devdocs.io/)
 * [Manipulate PDFs](http://smallpdf.com/)
+* [Practical Web Tools - 1,400+ free client-side tools](https://practicalwebtools.com/)
 * [It's an app store for algorithms](http://algorithmia.com/)
 * [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 * [HTML5 Clientless Remote Desktop](http://guac-dev.org/)
